@@ -39,7 +39,22 @@ npm run dev
 8. Test your full stack app locally
 
 ### Deployment Tasks
-
+1. Go to Render and Create an Account using your Github Account
+2. Crate a Project
+3. Create a Web Service based on your Repo Server
+![App1](assets/server1.png)
+![App2](assets/server2.png)
+![App3](assets/server3.png)
+![App4](assets/server4.png)
+![App5](assets/server5.png)
+4. Create .env file at client with the following structure and paste the backend url
+```bash
+VITE_API_URL=
+```
+5. Create a Static Site App
+![App6](assets/client1.png)
+![App5](assets/client2.png)
+6. Update CORS with your FrontEnd API
 
 
 
