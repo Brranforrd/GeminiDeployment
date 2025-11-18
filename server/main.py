@@ -10,7 +10,7 @@ app = FastAPI(title="Gemini Chatbot API")
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    "https://geminifrontend-o7t6.onrender.com/"
+    "https://geminifrontend-o7t6.onrender.com/",
 ]
 
 # COMMENT
